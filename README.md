@@ -1,2 +1,5 @@
-# dynamic-upsampling-of-smoke-through-dictionary-based-learning
-My implementation following Paper Dynamic Upsampling of Smoke through Dictionary-based Learning
+# Dynamic Upsampling of Smoke through Dictionary-based Learning
+[Paper](https://arxiv.org/abs/1910.09166)
+
+## Author
+* [Hilbert Kong](https://github.com/Soooda)
